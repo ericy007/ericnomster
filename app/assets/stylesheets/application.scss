@@ -1,3 +1,5 @@
+
+
 @import "bootstrap";
 .booyah-box {
   -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
@@ -25,4 +27,12 @@ body {
 .navbar {
   background: image_url('beige-tiles.png');
   box-shadow: 0px 1px 3px #2a2a2a;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #0C2D07;
+  font-family: 'Orbitron-black', sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+  font-size: 21px;
 }
