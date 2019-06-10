@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 gem 'will_paginate', '~> 3.1'
 gem 'simple_form'
+gem "font-awesome-rails"
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
