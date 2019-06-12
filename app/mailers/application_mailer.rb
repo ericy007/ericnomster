@@ -12,6 +12,6 @@ class ApplicationMailer < ActionMailer::Base
     @user = user
     mail to: user.email, subject: "Password reset"
   end
-cend
 
-end
+
+
