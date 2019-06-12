@@ -3,10 +3,7 @@ class User < ApplicationRecord
   attr_accessor :remember_token, :activation_token, :reset_token
   before_save   :downcase_email
   before_create :create_activation_digest
-  .
-  .
-  .
-  # Activates an account.
+  
   def activate
     update_attribute(:activated,    true)
     update_attribute(:activated_at, Time.zone.now)
@@ -26,6 +23,9 @@ class User < ApplicationRecord
 
   # Sends password reset email.
   def send_password_reset_email
+    generate_token(:password_reset_token)
+    self.password_reset_sent_at = Time.zone.now
+    save!
     UserMailer.password_reset(self).deliver_now
   end
 
@@ -41,7 +41,6 @@ class User < ApplicationRecord
       self.activation_token  = User.new_token
       self.activation_digest = User.digest(activation_token)
     end
-end
 
 
   # Include default devise modules. Others available are:
@@ -52,8 +51,6 @@ end
 
   has_many :places
  
-
-
 
 
 
