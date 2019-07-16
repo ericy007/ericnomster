@@ -9,7 +9,7 @@
 
 <% @places.each do |place| %>
 
- <div class="booyah-box col-10 offset-1">
+ <div id="places-container" class="booyah-box col-10 offset-1">
     <h1><%= link_to place.name, place_path(place) %></h1><br />
 
   <h1><%= place.name %></h1>
@@ -23,7 +23,7 @@
 <div class="col-12 col-md-3">
     <% if place.photos.present? %>
     <div class="photos-index float-right">
-      <%= image_tag place.photos.first.picture, class: 'index-image-size' %>
+      <%= image_tag place.photos.first.picture.url, class: 'index-image-size' %>
     </div>
     <% end %>
 </div>
