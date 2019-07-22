@@ -9,6 +9,6 @@ class UserMailer < ApplicationMailer
     @user = user
 
 
-    mail to: => user.email, subject => "Password Reset"
+    mail to => user.email, subject => "Password Reset"
   end
 end
