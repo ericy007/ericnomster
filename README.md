@@ -27,6 +27,6 @@ The index page will display all of the places in the database sorted alphabetica
 
 ![nomster4](https://user-images.githubusercontent.com/50501566/76135323-f4625c80-5ff3-11ea-8be3-15d937806915.jpg)
 
-Comments
+comments
 
 
