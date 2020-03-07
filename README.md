@@ -39,4 +39,14 @@ Whenever a comment is added to a place, the user who originally added the place 
 
 ![nomster6](https://user-images.githubusercontent.com/50501566/76135556-f1686b80-5ff5-11ea-97e3-19c4c15b0c43.jpg)
 
-
+# Tech Used
+- Rails (5.0.7.2)
+- Bootstrap (4.3.1)
+- Kaminari (1.1.1)
+- simple_form (4.1.0)
+- Font Awesome (4.7.0.4)
+- Devise (4.6.2)
+- Google Maps API/Geocoder (1.5.1)
+- Figaro (1.1.1)
+- CarrierWave (1.3.1)
+- AWS/fog-aws (3.4.0)
