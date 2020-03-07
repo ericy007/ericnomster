@@ -20,3 +20,8 @@ Creating a user will allow you to add places  photos of each place,  leave comme
 Users also get a Profile page which displays all of the places they've added, comments and ratings they've left, and other information about their activity on the site
 
 ![nomster1](https://user-images.githubusercontent.com/50501566/76135294-8e75d500-5ff3-11ea-8226-a13effc70065.jpg)
+
+Browsing places
+The index page will display all of the places in the database sorted alphabetically by name.
+
+![nomster4](https://user-images.githubusercontent.com/50501566/76135323-f4625c80-5ff3-11ea-8be3-15d937806915.jpg)
