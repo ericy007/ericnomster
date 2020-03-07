@@ -21,7 +21,7 @@ Users also get a Profile page which displays all of the places they've added, co
 
 ![nomster1](https://user-images.githubusercontent.com/50501566/76135294-8e75d500-5ff3-11ea-8226-a13effc70065.jpg)
 
-#Browsing places
+# BROWSING PLACES
 
 The index page will display all of the places in the database sorted alphabetically by name.
 
