@@ -30,5 +30,7 @@ The index page will display all of the places in the database sorted alphabetica
 
 # Comments
 
+Users that are logged in can add a comment to a place
+
 ![nomster5](https://user-images.githubusercontent.com/50501566/76135510-6dae7f00-5ff5-11ea-9155-b3fc7343a0b4.jpg)
 
