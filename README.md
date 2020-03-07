@@ -50,3 +50,6 @@ Whenever a comment is added to a place, the user who originally added the place 
 - Figaro (1.1.1)
 - CarrierWave (1.3.1)
 - AWS/fog-aws (3.4.0)
+
+# Authors
+[Eric Yabit](https://github.com/ericy007)
