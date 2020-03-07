@@ -53,3 +53,7 @@ Whenever a comment is added to a place, the user who originally added the place 
 
 # Authors
 [Eric Yabit](https://github.com/ericy007)
+
+# Acknowledgments
+
+University of Toronto Coding Bootcamp
