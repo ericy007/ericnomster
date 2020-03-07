@@ -6,11 +6,11 @@ Tools: HTML. CSS, Ruby, Rails, Algorithms and JavaScript
 Objective: Restaurant rating app. When a user clicks onto a place we want to show a few more details, a map with the location and also  all the comments/ratings for this place.
 
 
-URL
+# URL
 
 https://nomster-eric-yabit.herokuapp.com/
 
-Users
+# Users
 
 Use the 'Sign up' and 'Sign in' links at the top right to create a user and log into it.
 
@@ -21,7 +21,7 @@ Users also get a Profile page which displays all of the places they've added, co
 
 ![nomster1](https://user-images.githubusercontent.com/50501566/76135294-8e75d500-5ff3-11ea-8226-a13effc70065.jpg)
 
-# BROWSING PLACES
+# Browsing Places
 
 The index page will display all of the places in the database sorted alphabetically by name.
 
