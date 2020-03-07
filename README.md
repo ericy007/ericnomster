@@ -35,5 +35,8 @@ Users that are logged in can add a comment to a place
 ![nomster5](https://user-images.githubusercontent.com/50501566/76135510-6dae7f00-5ff5-11ea-9155-b3fc7343a0b4.jpg)
 
 
-Whenever a comment is added to a place, the user who originally added the place will receive an email notificatio
+Whenever a comment is added to a place, the user who originally added the place will receive an email notification
+
+![nomster6](https://user-images.githubusercontent.com/50501566/76135556-f1686b80-5ff5-11ea-97e3-19c4c15b0c43.jpg)
+
 
